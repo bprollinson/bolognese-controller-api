@@ -1,6 +1,6 @@
 <?php
 
-require_once('MethodInvoked.class.php');
+require_once(dirname(__FILE__) . '/MethodInvoked.class.php');
 
 class MethodInvokedResponse
 {
